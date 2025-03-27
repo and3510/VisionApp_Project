@@ -16,7 +16,6 @@
 * [Fluxo do Software](#fluxo-do-software)
 * [Dificuldades](#dificuldades)
 * [Resultados](#resultados)
-* [Como_Usar](#como_usar)
 * [Conclusao](#conclusao)
 
 
