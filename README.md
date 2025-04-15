@@ -3,6 +3,14 @@
 <div align="center">
 
 ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/Flutter-blue?style=for-the-badge&logo=flutter)
+![Static Badge](https://img.shields.io/badge/python-gray?style=for-the-badge&logo=python&logoColor=yellow)
+![Static Badge](https://img.shields.io/badge/Mongodb-darkgreen?style=for-the-badge&logo=mongoDB&logoColor=yellow)
+![Static Badge](https://img.shields.io/badge/docker-blue?style=for-the-badge&logo=docker&logoColor=white)
+![Static Badge](https://img.shields.io/badge/firebase-red?style=for-the-badge&logo=firebase&logoColor=yellow)
+
+
+
 
   
 </div>
