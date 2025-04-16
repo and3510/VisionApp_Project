@@ -93,6 +93,8 @@ Desenvolvimento de um aplicativo de segurança pública que utiliza reconhecimen
 
 ## Dificuldades
 
+- Tempo de Realização e Testes
+
 
 ## Resultados
 
