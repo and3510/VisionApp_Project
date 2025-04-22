@@ -1,3 +1,6 @@
 [submodule "MobileFaceCheck_Project"]
 	path = MobileFaceCheck_Project
 	url = https://github.com/and3510/MobileFaceCheck_Project.git
+[submodule "ApiFaceCheck_Project"]
+	path = ApiFaceCheck_Project
+	url = git@github.com:and3510/ApiFaceCheck_Project.git
