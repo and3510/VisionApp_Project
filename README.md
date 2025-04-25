@@ -80,7 +80,7 @@ Desenvolvimento de um aplicativo de segurança pública que utiliza reconhecimen
 - Flutter
 - Firebase
 - Docker
-- MongoDB
+- Postgresql
 
 
 ## Fluxo do Software
