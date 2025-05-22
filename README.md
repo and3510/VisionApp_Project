@@ -94,7 +94,9 @@ Desenvolvimento de um aplicativo de segurança pública que utiliza reconhecimen
 ## Dificuldades
 
 - Tempo de Realização e Testes
-
+- Configuraçao da Camera no Aplicativo
+- Dificuldade de Diminuir a Ambiguidade em relação a gemeos
+- Organizar a arquitetura do aplicativo para otimização
 
 ## Resultados
 
