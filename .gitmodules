@@ -1,9 +1,9 @@
-[submodule "ApiFaceCheck_Project"]
-	path = ApiFaceCheck_Project
-	url = git@github.com:and3510/ApiFaceCheck_Project.git
-
-
-
-[submodule "MobileVisionApp_Project"]
+[submodule "VisionApp_Mobile"]
 	path = VisionApp_Mobile
 	url = git@github.com:Cristovam10000/VisionApp.git
+[submodule "MobileVisionApp_Project"]
+	path = MobileVisionApp_Project
+	url = git@github.com:Cristovam10000/VisionApp.git
+[submodule "ApiVisionApp_Project"]
+	path = ApiVisionApp_Project
+	url = git@github.com:and3510/ApiVisionApp_Project.git
