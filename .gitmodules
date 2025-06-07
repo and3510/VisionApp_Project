@@ -4,6 +4,6 @@
 
 
 
-[submodule "VisionApp_Mobile"]
+[submodule "MobileVisionApp_Project"]
 	path = VisionApp_Mobile
 	url = git@github.com:Cristovam10000/VisionApp.git
