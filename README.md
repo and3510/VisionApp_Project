@@ -89,7 +89,10 @@ Desenvolvimento de um aplicativo de segurança pública que utiliza reconhecimen
 
 <div align="center"> 
 
-![alt text](images/fluxo.png)
+<p float="left">
+
+<img src="images/fluxo.png" width="600"/>
+</p>
 
 </div>
 
