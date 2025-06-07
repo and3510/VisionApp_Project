@@ -78,6 +78,7 @@ Desenvolvimento de um aplicativo de segurança pública que utiliza reconhecimen
 
 - Python
 - Dart
+- Minio
 - Flutter
 - Firebase
 - Docker
