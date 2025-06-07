@@ -76,13 +76,14 @@ Desenvolvimento de um aplicativo de segurança pública que utiliza reconhecimen
 
 ## Tecnologias
 
-- Python
-- Dart
-- Minio
-- Flutter
-- Firebase
-- Docker
-- Postgresql
+
+* **Python**: Linguagem de programação versátil e fácil de aprender, usada para web, ciência de dados, automação e mais.
+* **Dart**: Linguagem de programação otimizada para aplicações frontend, principalmente com Flutter.
+* **MinIO**: Serviço de armazenamento de objetos compatível com S3, usado para guardar arquivos e dados em nuvem.
+* **Flutter**: Framework da Google para desenvolver aplicativos nativos multiplataforma com uma única base de código.
+* **Firebase**: Plataforma da Google com serviços para desenvolver apps móveis e web, incluindo banco de dados e autenticação.
+* **Docker**: Plataforma para empacotar, distribuir e executar aplicações em containers de forma leve e portátil.
+* **PostgreSQL**: Sistema de gerenciamento de banco de dados relacional robusto e open-source com suporte a SQL avançado.
 
 
 ## Fluxo do Software
