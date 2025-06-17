@@ -132,3 +132,6 @@ Desenvolvimento de um aplicativo de segurança pública que utiliza reconhecimen
 
 ## Conclusao
 
+O VisionApp representa um avanço significativo no apoio às operações de segurança pública, oferecendo uma solução inovadora para a identificação de indivíduos por meio de reconhecimento facial baseado em IA. Nosso compromisso é proporcionar abordagens policiais mais seguras, eficientes e ágeis, garantindo que as autoridades tenham acesso rápido a informações críticas para a tomada de decisão.
+
+Através da integração de tecnologias robustas como Flutter, Python, Firebase, Docker, MinIO e PostgreSQL, construímos um sistema capaz de capturar e processar imagens em tempo real, realizar reconhecimento facial preciso, consultar bancos de dados de forma eficaz e alertar sobre pendências judiciais. Apesar dos desafios enfrentados, como a otimização da arquitetura e a configuração da câmera, a equipe superou as dificuldades para entregar uma ferramenta valiosa.
